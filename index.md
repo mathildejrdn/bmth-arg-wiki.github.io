@@ -8,7 +8,7 @@ This wiki will focus on objective information as much as possible and indicate w
 Some tips on getting into the ARG:
 - Listen to the album first!
 - Explore the [band's Instagram posts](https://www.instagram.com/bringmethehorizon/)
-- Step 1 is to get into the [webpage](pages/webpage)
+- Step 1 of the ARG itself is to get into the [webpage](pages/webpage)
 - Join the hunt on Reddit or Discord.
 
 ## Collaborators and conspirators
